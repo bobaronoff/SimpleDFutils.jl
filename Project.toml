@@ -3,6 +3,11 @@ uuid = "28250f37-11bb-4653-ade6-2c1a393c3725"
 authors = ["bobaronoff <bobaronoffMD@aol.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+SQLite = "0aa819cd-b072-5ff4-a722-6bc24af294d9"
+StatsKit = "2cb19f9e-ec4d-5c53-8573-a4542a68d3f0"
+
 [compat]
 julia = "1"
 
