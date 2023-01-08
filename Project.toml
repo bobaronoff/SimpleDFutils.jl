@@ -9,6 +9,7 @@ SQLite = "0aa819cd-b072-5ff4-a722-6bc24af294d9"
 StatsKit = "2cb19f9e-ec4d-5c53-8573-a4542a68d3f0"
 
 [compat]
+SQLite = "1"
 julia = "1"
 
 [extras]
